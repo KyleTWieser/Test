@@ -6,5 +6,8 @@
     <account id="e93e4e1c-6f38-41fe-aed1-181fc92e8d7d" name="kyletwieser@gmail.com">
       <server host="github.com" />
     </account>
+    <account id="9663e554-0bd9-437f-b956-bcd29065ae50" name="ktwieser@unomaha.edu">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
